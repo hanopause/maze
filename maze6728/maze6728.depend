@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1657786860 source:c:\c++\project\maze6728\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"create.h"
+
+1651762500 c:\c++\project\maze6728\create.h
+	<string>
+	<vector>
+
+1657802648 source:c:\c++\project\maze6728\create.cpp
+	"create.h"
+	<ctime>
+	<random>
+	<iostream>
+
